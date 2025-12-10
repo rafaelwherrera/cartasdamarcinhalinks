@@ -8,9 +8,8 @@ const cinzel = Cinzel({ subsets: ["latin"], variable: "--font-cinzel" })
 const geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Madame Luna - Cartomante & Tarot",
+  title: "Cartas da Marcinha - Cartomante & Tarot",
   description: "Desvende os mistérios do universo através das cartas",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
